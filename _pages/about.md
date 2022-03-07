@@ -16,9 +16,9 @@ social: true  # includes social icons at the bottom of the page
 
 Currently studying for graduate school for Ph.D in Statistics.
 
-■ Bachelor of Science at New York University in Mathematics.
-■ Served as Bootcamp Instructor at S.Korean Army.
-■ Developer of [Do.now](https://apps.apple.com/us/app/do-now/id1584547112) App on the iOS App Store.
+■ Bachelor of Science at New York University in Mathematics.<br/>
+■ Served as Bootcamp Instructor at S.Korean Army.<br/>
+■ Developer of [Do.now](https://apps.apple.com/us/app/do-now/id1584547112) App on the iOS App Store.<br/>
 
 After discharged from South Korean Army, I worked briefly as an iOS developer at a small company in South Korea. I have an app on the iOS App Store named [Do.now](https://apps.apple.com/us/app/do-now/id1584547112) that helps people organize their todos in a more organized, efficient way. I quit my job in February, 2022 to study for graduate school for Ph.D degree in Statistics. And I am currently studying day and night at local cafes.
 
