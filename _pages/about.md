@@ -2,28 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Born in 1994 in Seoul, South Korea.
 
 profile:
   align: right
   image: prof-pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Currently studying for graduate school for Ph.D in Mathematics. Born in S.Korea, lived in the US for 7 years, served as bootcamp instructor at S.Korean army,
+Currently studying for graduate school for Ph.D in Statistics.
 
-have an iOS app on the app store.
-went to nyu with Bachelor's in math...
+■ Bachelor of Science at New York University in Mathematics.
+■ Served as Bootcamp Instructor at S.Korean Army.
+■ Developer of [Do.now](https://apps.apple.com/us/app/do-now/id1584547112) App on the iOS App Store.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+After discharged from South Korean Army, I worked briefly as an iOS developer at a small company in South Korea. I have an app on the iOS App Store named [Do.now](https://apps.apple.com/us/app/do-now/id1584547112) that helps people organize their todos in a more organized, efficient way. I quit my job in February, 2022 to study for graduate school for Ph.D degree in Statistics. And I am currently studying day and night at local cafes.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am also an avid writer. I write on [Medium](https://medium.com/@junsu-kim) and [Velog](https://velog.io/@junsukim1994) about iOS, Statistics, Culture, and Life. If you are interested, head over and check out my articles.
